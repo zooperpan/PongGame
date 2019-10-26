@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Panos/Desktop/ClientPong.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/PongGame/ClientToJar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=PongGame/src&lt;pong.client{MainRun.java[MainRun" manifestLocation="/L3SAnalysis1/src/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.ability"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.gui.dialog"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.game"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.com"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.gui"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.com.command"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.gui.images"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.motion"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.conn"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.gui.pong"/>
+        <javaElement handleIdentifier="=PongGame/src&lt;pong.client.player"/>
+    </selectedElements>
+</jardesc>
